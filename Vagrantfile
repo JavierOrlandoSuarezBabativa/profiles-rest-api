@@ -33,6 +33,7 @@ end
 
 # The command to run the virtual box is vagrant up
 # The command to integrate the local machine to the virtual box is vagrant ssh
+# In order to access to the django project, activate the virtual environment, source ~/env/bin/activate
 # To leave is exit
 
 
