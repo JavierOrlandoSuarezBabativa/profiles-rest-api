@@ -1,0 +1,1 @@
+# File, containing a sufficient nature and purpose description of the project´s focuses and functionality 
